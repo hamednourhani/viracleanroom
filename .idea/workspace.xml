@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a77ccd67-8071-4ec9-943d-50f3bbd174d7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo-gfilter-60.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/ie/style.css" afterPath="$PROJECT_DIR$/css/ie/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/rtl.min.css" afterPath="$PROJECT_DIR$/css/rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/css/sass/layout/_footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/css/sass/layout/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.min.css" afterPath="$PROJECT_DIR$/css/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/itstart.pot" afterPath="$PROJECT_DIR$/languages/itstart.pot" />
-    </list>
+    <list default="true" id="a77ccd67-8071-4ec9-943d-50f3bbd174d7" name="Default" comment="" />
     <ignored path="viracleanroom.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -393,12 +380,12 @@
       <workItem from="1461260685030" duration="237000" />
       <workItem from="1461260927708" duration="73000" />
       <workItem from="1461261025096" duration="240000" />
-      <workItem from="1461261271189" duration="5096000" />
+      <workItem from="1461261271189" duration="5339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5646000" />
+    <option name="totallyTimeSpent" value="5889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="728" extended-state="0" />
