@@ -43,4 +43,30 @@ footer.site-footer,.site-footer{
 	}
 }
 
-
+.partners{
+	text-align : center;
+	.partner{
+		text-align : center;
+		margin-top : 30px;
+		@include span-columns(12,12);
+		@include at-breakpoint($medium){
+			@include span-columns(2,12);
+		}
+		img{
+			max-width : 100%;
+		}
+		&.vira-logo{
+			margin-top : 0px;
+			@include span-columns(12,12);
+			@include at-breakpoint($medium){
+				@include span-columns(4,12);
+			}
+		}
+		&.last-partner{
+			@include span-columns(12,12);
+			@include at-breakpoint($medium){
+				@include span-columns(2 omega,12);
+			}
+		}
+	}
+}

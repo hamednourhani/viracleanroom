@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: viracleanroom 1.0\n"
 "Report-Msgid-Bugs-To: http://itstar.ir/contact-us\n"
-"POT-Creation-Date: 2016-04-20 13:28:06+00:00\n"
+"POT-Creation-Date: 2016-04-21 19:20:01+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: iTstar <info@itstar.ir>\n"
-"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
 
 #: 404.php:20
 msgid "This is somewhat embarrassing, isn&rsquo;t it?"
@@ -41,15 +41,15 @@ msgstr ""
 msgid "Comments are closed."
 msgstr ""
 
-#: footer.php:11
+#: footer.php:45
 msgid "Vira Co © 2015. All rights reserved."
 msgstr ""
 
-#: footer.php:14
+#: footer.php:48
 msgid "Designed by "
 msgstr ""
 
-#: footer.php:15
+#: footer.php:49
 msgid "Farakaranet "
 msgstr ""
 
@@ -486,7 +486,7 @@ msgstr ""
 msgid "Main Menu"
 msgstr ""
 
-#: library/banner-maker.php:26
+#: library/banner-maker.php:20
 msgid "Search Results for: %s"
 msgstr ""
 
