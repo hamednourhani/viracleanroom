@@ -78,7 +78,7 @@
 							<img src="<?php echo get_template_directory_uri();?>/images/viracleanroom-logo.png" alt="<?php echo get_bloginfo('name'); ?>"/>
 						</a>
 					</div>
-					<span class="site-desc"><?php echo __('Clean Room Technology Construction','viradeco'); ?></span>
+					<span class="site-desc"><?php echo __('Clean Room Technology & Construction','viradeco'); ?></span>
 				</section>
 			
 

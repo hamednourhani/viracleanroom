@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Viradeco\n"
-"POT-Creation-Date: 2015-12-26 10:05+0330\n"
-"PO-Revision-Date: 2015-12-26 10:05+0330\n"
+"POT-Creation-Date: 2016-04-23 08:45+0430\n"
+"PO-Revision-Date: 2016-04-23 08:46+0430\n"
 "Last-Translator: \n"
 "Language-Team: iTstar <info@itstar.ir>\n"
 "Language: fa_IR\n"
@@ -52,17 +52,17 @@ msgstr "دیدگاه های جدیدتر"
 msgid "Comments are closed."
 msgstr "دیدگاه ها بسته است."
 
-#: footer.php:11
+#: footer.php:45
 msgid "Vira Co © 2015. All rights reserved."
 msgstr "شرکت ویرا © 1394 . تمامی حقوق محفوظ می باشد."
 
-#: footer.php:14
-msgid "Designed by "
-msgstr "طراحی شده توسط"
+#: footer.php:48
+msgid "Designed "
+msgstr "طراحی سایت"
 
-#: footer.php:15
-msgid "Farakaranet "
-msgstr "فراکارانت"
+#: footer.php:49
+msgid "By Farakaranet "
+msgstr "توسط فراکارانت"
 
 #: functions.php:92
 msgid "Slider Size"
@@ -487,8 +487,8 @@ msgid " -- Only registered Users can Download the Catalog -- "
 msgstr "-- تنها کاربران عضو سایت قادر به دانلود کاتالوگ می باشند --"
 
 #: header.php:81
-msgid "Create Your Own Ideas"
-msgstr "خالق ایده های خود باشید"
+msgid "Clean Room Technology & Construction"
+msgstr ""
 
 #: header.php:100 library/viradeco.php:285
 msgid "The Main Menu"
@@ -498,7 +498,7 @@ msgstr "فهرست اصلی"
 msgid "Main Menu"
 msgstr "منوی اصلی"
 
-#: library/banner-maker.php:26
+#: library/banner-maker.php:20
 #, php-format
 msgid "Search Results for: %s"
 msgstr "نتایج جستجو برای : %s"
@@ -599,22 +599,34 @@ msgstr "اسلایدشو"
 msgid "Image"
 msgstr "تصویر"
 
-#: library/cmb-functions.php:342
+#: library/cmb-functions.php:330
+msgid "Map"
+msgstr ""
+
+#: library/cmb-functions.php:343
 msgid "Slider Shortcode"
 msgstr "کدکوتاه اسلایدشو"
 
-#: library/cmb-functions.php:343
+#: library/cmb-functions.php:344
 msgid "write this page Revolotion Slider shortcode with alis name here"
 msgstr ""
 "کد کوتاه اسلایدشو را از طریق ویرایشگر به دست آورده و به صورت کامل وارد نمایید"
 
-#: library/cmb-functions.php:350
+#: library/cmb-functions.php:351
 msgid "Banner Image"
 msgstr "تصویر بنر"
 
-#: library/cmb-functions.php:351
+#: library/cmb-functions.php:352
 msgid "Upload an image to show as the banner"
 msgstr "تصویر بنر را بارگذرای نمایید"
+
+#: library/cmb-functions.php:359
+msgid "Google Map"
+msgstr ""
+
+#: library/cmb-functions.php:360
+msgid "Enter Google Map embed code"
+msgstr ""
 
 #: library/comment-form.php:8
 msgid ""
@@ -1011,6 +1023,15 @@ msgstr "جستجو"
 #: single-project.php:32
 msgid "Date "
 msgstr "تاریخ"
+
+#~ msgid "Designed by "
+#~ msgstr "طراحی شده توسط"
+
+#~ msgid "Farakaranet "
+#~ msgstr "فراکارانت"
+
+#~ msgid "Create Your Own Ideas"
+#~ msgstr "خالق ایده های خود باشید"
 
 #~ msgid "Be Your Ideas Creator"
 #~ msgstr "خالق ایده های خود باشید"
