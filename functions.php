@@ -65,6 +65,7 @@ function viradeco_ahoy() {
   // cleaning up excerpt
   add_filter( 'excerpt_more', 'viradeco_excerpt_more' );
 
+  remove_filter('template_redirect', 'redirect_canonical'); 
 } /* end viradeco ahoy */
 
 // let's get this party started
