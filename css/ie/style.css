@@ -2,8 +2,8 @@
 /* fonts */
 @font-face {
   font-family: "open-sans";
-  src: url('../fonts/OpenSans-Regular.eot?1461241230');
-  src: url('../fonts/OpenSans-Regular.eot?&1461241230#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Regular.ttf?1461241230') format('truetype'), url('../fonts/OpenSans-Regular.woff?1461241230') format('woff');
+  src: url('../fonts/OpenSans-Regular.eot?1462195112');
+  src: url('../fonts/OpenSans-Regular.eot?&1462195112#iefix') format('embedded-opentype'), url('../fonts/OpenSans-Regular.ttf?1462195112') format('truetype'), url('../fonts/OpenSans-Regular.woff?1462195112') format('woff');
   font-weight: "OpenSans-Regular.svg"; }
 /* normalize style */
 /* normalize-scss 3.0.2+normalize.3.0.2 | MIT/GPLv2 License | bit.ly/normalize-scss */
@@ -12,7 +12,7 @@
  * and $rhythm-unit variables. Also, correct text resizing oddly in IE 6/7 when
  * body `font-size` is set using `em` units.
  */
-/* line 106, ../../../../../Ruby21-x64/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 106, ../../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 100%;
   line-height: 1.5em; }
@@ -618,7 +618,7 @@ p {
   font-feature-settings: "liga", "dlig"; }
 
 /* ------------susy-------- */
-/* line 14, ../../../../../Ruby21-x64/lib/ruby/gems/2.1.0/gems/susy-2.2.2/sass/susy/language/susyone/_grid.scss */
+/* line 14, ../../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/susy-2.2.5/sass/susy/language/susyone/_grid.scss */
 * {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -1385,7 +1385,7 @@ ul.main-nav {
     filter: alpha(opacity=0);
     position: absolute;
     top: 100%;
-    left: -30%;
+    left: -10%;
     -moz-transition: opacity .45s linear, visibility .2s linear .4s;
     -webkit-transition: opacity .45s linear, visibility .2s linear .4s;
     -o-transition: opacity .45s linear, visibility .2s linear .4s;
@@ -1564,7 +1564,7 @@ li.mega-menu li.menu-item > a {
   margin-left: auto;
   margin-right: auto;
   position: relative; }
-  /* line 38, ../../../../../Ruby21-x64/lib/ruby/gems/2.1.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scss */
+  /* line 38, ../../../../../Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scss */
   .layout:after, ul.main-nav > li.mega-menu > ul.sub-menu > .sub-menu-wrap:after {
     content: "";
     display: table;
@@ -2011,7 +2011,7 @@ ul.social-links li {
       height: 36px;
       content: "";
       display: inline-block;
-      background-image: url('../../images/social-icons.png?1461241231');
+      background-image: url('../../images/social-icons.png?1462195112');
       vertical-align: middle; }
     /* line 475, ../sass/layout/_main.scss */
     ul.social-links li a.sicon.google-plus:before {
