@@ -27,7 +27,7 @@
 					</div>
 
 					<div class="partner">
-						<a href="http://www.generalfilters.com/">
+						<a href="http://www.generalfilter.com/">
 							<img src="<?php echo get_template_directory_uri().'/images/general-filter.png';?>" alt="">
 						</a>
 					</div>
